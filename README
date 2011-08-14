@@ -6,6 +6,10 @@ TinyMCE 画像のキャプションを自動付加について wordpressゃplon.
 
 
 
+概要：
+画像を選択した状態でこのキャプション用ボタンを押すとalt属性をspan要素にして追加します。
+
+
 
 DEMO：
 tinymce\examples\full.htmlをブラウザで開く。
