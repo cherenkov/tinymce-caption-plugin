@@ -1,0 +1,38 @@
+caption plugin for TinyMCE (3.4.4) 
+author: cherenkov
+
+需要：
+TinyMCE 画像のキャプションを自動付加について wordpressゃplon.. - 人力検索はてな http://q.hatena.ne.jp/1313227202
+
+
+
+
+DEMO：
+tinymce\examples\full.htmlをブラウザで開く。
+
+
+
+インストール：
+tinymce\jscripts\tiny_mce\plugins\captionのフォルダをそのままコピーする。
+
+
+
+使い方：
+tinyMCE.init({内に
+plugins : "caption,～
+theme_advanced_buttons4 : "caption,～
+のように2つ追加する。
+
+同梱されている、tinymce\examples\full.htmlを見てください。
+
+
+
+
+アイコン画像はこちらから拝借した（このプラグイン自体は現バージョン未対応で動作しなかった）：
+SourceForge.net: TinyMCE: Detail: 1165233 - Image caption plugin http://sourceforge.net/tracker/index.php?func=detail&aid=1165233&group_id=103281&atid=738747
+
+
+
+プラグインの作り方はこちらを参考にした：
+-TinyMCE - Creating a plugin http://www.tinymce.com/wiki.php/Creating_a_plugin
+-WebTecNote - [WP]TinyMCEのビジュアルリッチエディタにカスタムボタンを追加する http://tenderfeel.xsrv.jp/wordpress/350/
