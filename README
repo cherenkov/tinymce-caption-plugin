@@ -12,12 +12,12 @@ TinyMCE 画像のキャプションを自動付加について wordpressゃplon.
 
 
 DEMO：
-tinymce\examples\full.htmlをブラウザで開く。
+examples\full.htmlをブラウザで開く。
 
 
 
 インストール：
-tinymce\jscripts\tiny_mce\plugins\captionのフォルダをそのままコピーする。
+jscripts\tiny_mce\plugins\captionのフォルダをそのままコピーする。
 
 
 
@@ -27,7 +27,7 @@ plugins : "caption,～
 theme_advanced_buttons4 : "caption,～
 のように2つ追加する。
 
-同梱されている、tinymce\examples\full.htmlを見てください。
+同梱されている、examples\full.htmlを見てください。
 
 
 
