@@ -14,7 +14,8 @@
                         ed.addButton('caption', {
                                 title : 'caption',
                                 cmd : 'mceCaption',
-                                image : 'data:image/gif;base64,R0lGODlhFAAUAOMKAAAAADMzMyVjAJw4KgCZAGaZAJmZmZzOFZzO9ODg4P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FyH5BAEKAA8ALAAAAAAUABQAAAR88MlJq734qs27rwoijuSogGWBFAZ5UqGoHkdhJ%2BI7xQXtC6ocauU7CAguVNBnOwphiITtgCAUrAVBQifZ2G6ExCBh3YC8ioF1YOucO4OAxwwr0gL2A%2FehOAB8AIGAAHsKgYSGG4SIACCLioGKHBWHkYyJhpQci5GQGZ8UEQA7'
+                                //image : 'data:image/gif;base64,R0lGODlhFAAUAOMKAAAAADMzMyVjAJw4KgCZAGaZAJmZmZzOFZzO9ODg4P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FyH5BAEKAA8ALAAAAAAUABQAAAR88MlJq734qs27rwoijuSogGWBFAZ5UqGoHkdhJ%2BI7xQXtC6ocauU7CAguVNBnOwphiITtgCAUrAVBQifZ2G6ExCBh3YC8ioF1YOucO4OAxwwr0gL2A%2FehOAB8AIGAAHsKgYSGG4SIACCLioGKHBWHkYyJhpQci5GQGZ8UEQA7'
+				image: url + '/caption_icon.gif'
                         });
 
                         // Add a node change handler, selects the button in the UI when a image is selected
